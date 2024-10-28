@@ -23,7 +23,7 @@ Installation
 
 bash
 
-git clone https://github.com/yourusername/eventspot-lite.git
+git clone this repository
 
     Navigate to the project directory:
 
