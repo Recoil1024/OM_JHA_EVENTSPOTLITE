@@ -107,13 +107,4 @@ Future Enhancements
     Social sharing features
     Event reminders and notifications
     Integration with external calendar services
-    Mobile app version
-
-Contact
-Your Name - @yourusername Project Link: https://github.com/yourusername/eventspot-lite
-Acknowledgments
-
-    Font Awesome for icons
-    React for the framework
-    Create React App for project setup
-
+    
